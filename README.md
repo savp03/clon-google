@@ -24,7 +24,7 @@ Puedes ver el clon de Google en acción en este enlace: [https://tunombre.github
 
 Puedes conocer más sobre mí y mis proyectos en mi página personal:
 
-[![Página personal](https://img.shields.io/badge/Página%20personal-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)](https://tunombre.github.io)
+[![Página personal](https://img.shields.io/badge/Página%20personal-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)](https://sergioperalta.dev/)
 
 ## ¿Quieres colaborar conmigo? 🤝
 
