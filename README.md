@@ -2,9 +2,12 @@
 
 Este proyecto es un clon de la página de inicio de Google, realizado como práctica de HTML y CSS. 
 
+## Screenshot del proyecto 🖥️
+![google](https://user-images.githubusercontent.com/81594274/219540783-08847f85-4d2d-4c27-a660-553529a07fe9.png)
+
 ## Características 🚀
 
-- Barra de navegación con opciones para búsqueda web, búsqueda de imágenes y acceso a Gmail y Drive.
+- Barra de navegación con opciones para búsqueda web.
 - Caja de búsqueda con botón de búsqueda y opciones avanzadas.
 - Sección de "Me siento con suerte".
 - Pie de página con opciones adicionales y enlaces a otras páginas de Google.
