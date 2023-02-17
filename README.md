@@ -18,7 +18,7 @@ Este proyecto ha sido desarrollado utilizando las siguientes tecnologías:
 
 ## ¿Quieres verlo en acción? 🤔
 
-Puedes ver el clon de Google en acción en este enlace: [https://tunombre.github.io/google-clone/](https://tunombre.github.io/google-clone/)
+Puedes ver el clon de Google en acción en este enlace: https://www.google-clon.sergioperalta.dev/
 
 ## ¿Quieres saber más sobre mí? 🤓
 
